@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "leKg-Movie",
-    "slug": "leKg-Movie",
+    "name": "Movie finder",
+    "slug": "le-kg-movie-app",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
